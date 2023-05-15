@@ -12,8 +12,11 @@ The base URL for accessing the API is http://your-domain.com/uploadit-api/. Repl
 The following API actions are available:
 
 -`file_upload`: Upload a file to the server.
+
 -`file_delete`: Delete a file from the server.
+
 -`create_dir`: Create a new directory on the server.
+
 -`delete_dir`: Delete a directory from the server.
 
 ## API Endpoints
@@ -21,8 +24,11 @@ The following API actions are available:
 The API endpoints are accessed by sending POST requests to the respective URLs.
 
 -`POST /uploadit-api/?action=file_upload`: Upload a file to the server.
+
 -`POST /uploadit-api/?action=file_delete`: Delete a file from the server.
+
 -`POST /uploadit-api/?action=create_dir`: Create a new directory on the server.
+
 -`POST /uploadit-api/?action=delete_dir`: Delete a directory from the server.
 
 ## Request Headers
