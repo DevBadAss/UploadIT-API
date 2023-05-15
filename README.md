@@ -37,7 +37,7 @@ Access-Control-Allow-Method: POST
 
 Upload a file
 
-```bash
+```php
   POST /uploadit-api/?action=file_upload
 
 FormData:
@@ -49,7 +49,7 @@ FormData:
 
 Delete a file
 
-```bash
+```php
 POST /uploadit-api/?action=file_delete
 
 Body:
@@ -72,7 +72,7 @@ Body:
 
 Delete a Directory
 
-```bash
+```php
 POST /uploadit-api/?action=delete_dir
 
 Body:
