@@ -35,9 +35,9 @@ The API endpoints are accessed by sending POST requests to the respective URLs.
 
 Make sure to set the following headers in your requests:
 
-Content-Type: application/json
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Method: POST
+`Content-Type: application/json`
+`Access-Control-Allow-Origin: *`
+`Access-Control-Allow-Method: POST`
 
 ## Requests Examples
 
