@@ -5,7 +5,7 @@ The UploadIT API provides endpoints to upload files to a server, create and dele
 To use the UploadIT API, send HTTP requests to the appropriate endpoints based on the desired action.
 
 ## Base URL
-The base URL for accessing the API is http://your-domain.com/uploadit-api/. Replace your-domain.com with the actual domain where the API is hosted.
+The base URL for accessing the API is http://your-domain.com/uploadit-api/api/. Replace your-domain.com with the actual domain where the API is hosted.
 
 ### API Actions
 
